@@ -4,8 +4,9 @@ const SideBar = ({
   showFirmHandler,
   showProductHandler,
   showAllProductsHandler,
-  showFirmTitle
+  showFirmTitle 
 }) => {
+  
   return (
     <div className="sideBarSection">
       <ul>

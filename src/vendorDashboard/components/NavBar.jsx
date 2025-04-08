@@ -8,7 +8,7 @@ const NavBar = ({showLoginHandler, showRegisterHandler, showLogOut, logOutHandle
     <div className="navSection">
       
         <div className="logo">
-        <img src="/assets/logo.jpg" alt="logo" />
+        <img src="/assets/logo.jpg" alt="logo" style={{height : "60px" , width : "60px" , marginLeft : "25px"}} />
         </div>
         <div className="company">
          Vendor Dashboard
